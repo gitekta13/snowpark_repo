@@ -1,0 +1,9 @@
+{
+  "account"   : "bc00481.ca-central-1.aws",
+  "user"      : "snowflakekta",
+  "password"  : "Ektagar@13",
+  "role"      : "ACCOUNTADMIN",
+  "warehouse" : "COMPUTE_WHHH",
+  "database"  : "DEMO_DB",
+  "schema"    : "PUBLIC"
+}
