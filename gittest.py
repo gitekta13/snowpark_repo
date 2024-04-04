@@ -5,7 +5,7 @@ from snowflake.snowpark.functions import col
 import json
 
 def hello(session: Session) -> DataFrame:
-    df = session.table("demodb.dev.customers")
+    df = session.table("demo_db.public.customers")
     #df = df.groupBy("STATE").count()
     return df
 
